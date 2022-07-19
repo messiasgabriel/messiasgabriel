@@ -1,6 +1,7 @@
 ### Ola! Me chamo Gabriel Messias.
 
 - Sou formado em Redes de Computadores.
+- Estudo TI desde os 15 anos.
 - Atualmente estou estudando Desenvolvimento Web.
 - Futuramente quero me tornar um Desenvolvedor Front-end.
 
