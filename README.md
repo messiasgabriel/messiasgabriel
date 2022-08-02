@@ -1,9 +1,11 @@
-### Ola! Me chamo Gabriel Messias.
+<h1 align="center">
+Ola! Me chamo Gabriel Messias.
+</h1>
 
-- Sou formado em Redes de Computadores.
-- Estudo TI desde os 15 anos.
-- Atualmente estou estudando Desenvolvimento Web.
-- Futuramente quero me tornar um Desenvolvedor Front-end.
+<p>- Sou formado em Redes de Computadores.</p>
+<p>- Estudo TI desde os 15 anos.</p>
+<p>- Atualmente estou estudando Desenvolvimento Web.</p>
+<p>- Futuramente quero me tornar um Desenvolvedor Front-end.</p>
 
 <div align="center">
   <a href="https://github.com/messiasgabriel">
