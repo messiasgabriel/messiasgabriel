@@ -7,7 +7,7 @@ Ola! Me chamo Gabriel Messias.
 <p>- Atualmente estou estudando Desenvolvimento Web.</p>
 <p>- Futuramente quero me tornar um Desenvolvedor Front-end.</p>
 
-<div align="center" style="display: inline_block">
+<div align="center" style="display: inline_block"> <br>
   <a href="https://github.com/messiasgabriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=messiasgabriel&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=messiasgabriel&layout=compact&theme=dark"/>
