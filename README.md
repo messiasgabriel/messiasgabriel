@@ -6,7 +6,7 @@ Hello! i'm Gabriel Messias.
   <p>- Study IT since 15 years old.</p>
   <p>- Currently studying web development to become a FrontEnd Developer.</p>
   </div>
-<img align="right" width="400" flex="wrap" src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp" />
+<img align="center" width="400" flex="wrap" src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp" />
 
 <div align="center" style="display: flex"> <br>
   <a href="https://github.com/messiasgabriel">
