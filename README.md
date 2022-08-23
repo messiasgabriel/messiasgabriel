@@ -4,7 +4,7 @@ Hello! i'm Gabriel Messias.
   <div align="left">
   <p>- I'm a Computer Network technologist.</p>
   <p>- Study IT since 15 years old.</p>
-  <p>- Currently studying web development to become a Web Developer.</p>
+  <p>- Currently studying web development to become a FrontEnd Developer.</p>
   </div>
 <div align="center" style="display: inline_block"> <br>
   <a href="https://github.com/messiasgabriel">
