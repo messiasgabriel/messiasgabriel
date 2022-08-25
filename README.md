@@ -8,9 +8,9 @@ Hello! i'm Gabriel Messias.
   </div>
 <img align="center" width="400" flex="wrap" src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp" />
 
-<div align="center" style="display: inline_block"> <br>
+<div align="flex-start" style="display: flex"> <br>
   <a href="https://github.com/messiasgabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=messiasgabriel&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=messiasgabriel&show_icons=true&theme=dark"/> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=messiasgabriel&layout=compact&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
