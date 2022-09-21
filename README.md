@@ -2,7 +2,7 @@
 Hello! i'm Gabriel Messias.
 </h1>
   <div align="left">
-  <p>- I'm a Computer Network technologist and a FrontEnd Developer.</p>
+  <p>- I'm a Computer Network technologist and a Front-End Developer.</p>
   <p>- Study IT since 15 years old.</p>
   </div>
 
