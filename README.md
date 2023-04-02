@@ -2,8 +2,9 @@
 Hello! i'm Gabriel Messias.
 </h1>
   <div align="left">
-  <p>- Computer Network technologist and a Front-End Developer.</p>
-  <p>- Study IT since 15 years old.</p>
+  <p>My name is Gabriel, I'm 27 years old and have been studying IT since I was 15. 
+  <br> Currently graduated in computer networks and work as a IT assistant. 
+  <br> I am a Front-end Junior developer too with knowledge in HTML & CSS, JavaScript and React.</p>
   </div>
 
 <div align="flex-start" style="display: flex"> <br>
@@ -16,6 +17,7 @@ Hello! i'm Gabriel Messias.
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 ##
