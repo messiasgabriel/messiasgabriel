@@ -2,7 +2,7 @@
   <div align="left">
   <p>My name is Gabriel, I'm 27 years old and have been studying IT since I was 15. 
   <br> Currently graduated in computer networks and work as a IT assistant. 
-  <br> I am a Front-end Junior developer too with knowledge in HTML & CSS, JavaScript and React.</p>
+  <br> I am a Front-end developer Jr too with knowledge in HTML & CSS, JavaScript and React.</p>
   </div>
 
 <div align="flex-start" style="display: flex"> <br>
