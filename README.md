@@ -1,6 +1,4 @@
-<h1 align="center">
-Hello! i'm Gabriel Messias.
-</h1>
+<h1 align="center">What's up</h1>
   <div align="left">
   <p>My name is Gabriel, I'm 27 years old and have been studying IT since I was 15. 
   <br> Currently graduated in computer networks and work as a IT assistant. 
