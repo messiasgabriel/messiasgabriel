@@ -1,8 +1,8 @@
 <h1 align="center">What's up</h1>
   <div align="left">
   <p>My name is Gabriel, I'm 27 years old and have been studying IT since I was 15. 
-  <br> Currently graduated in computer networks and work as a IT assistant. 
-  <br> I am a Front-end developer Jr too with knowledge in HTML & CSS, JavaScript and React.</p>
+  <br> Currently graduated in Network Computing and work as a IT assistant. 
+  <br> I am a Web developer with knowledge in HTML & CSS, JavaScript and React.</p>
   </div>
 
 <div align="flex-start" style="display: flex"> <br>
