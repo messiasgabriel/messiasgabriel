@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <em> Front-End Developer • React / Next.js • Design Systems • </em>
+  <em> Front-End Developer • React / Next.js • </em>
 </p>
 
 ## 🚀 About Me
